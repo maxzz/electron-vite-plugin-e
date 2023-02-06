@@ -2,4 +2,8 @@
 
 ### Refs, credits, links
 
-* created with ```y create vite electron-vite .```
+* created as 
+    ```
+    yarn create vite electron-vite
+    yarn add -D electron vite-plugin-electron
+    ```
